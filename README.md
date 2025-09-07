@@ -1,4 +1,6 @@
-Steinsec OS
+
+
+# Steinsec OS
 
 architecture
 COSMIC 
